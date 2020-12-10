@@ -14,7 +14,7 @@ subtitle: "#Embedded #Python #MachineLearning #DataAnalysis"
 email: sjunkyle77@gmail.com
 name: Sjun Kyle
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  Blog for SW Developers & Engineers
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -76,13 +76,6 @@ descriptions:
 #     desc: Follow me on Twitter            # Description to display as link title, etc
 #     share: true                           # Include in the "Share" section of posts
 social:
-  - name: Twitter
-    icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
-    desc: Follow me on Twitter
-    share: true
-
   - name: Facebook
     icon: facebook
     username: thebencentra
